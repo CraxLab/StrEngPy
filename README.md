@@ -7,6 +7,4 @@ It provides several python programming language examples in Civil Engineering. I
 
 CraxLab.net | CxL
 
-Department of Civil Engineering
-
-Sakarya University
+Department of Civil Engineering | Sakarya University
